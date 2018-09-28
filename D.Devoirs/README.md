@@ -7,7 +7,7 @@
 |300106918   | [AEK.](https://github.com/AEKchaouche)                |X|X|X|X|
 |300105201   | [F.](https://github.com/BgbgL13)                 |X|X|X|X|
 |300107361   | [E.](https://github.com/toch90)                  |X|X|X|X|
-|300108234   | H.                  |X|X|X|X|
+|300108234   | [H.](https://github.com/halimabzn)                  |X|X|X|X|
 |300104524   | [E.](https://github.com/Echnaideurgeneus)   |X|X|X| |
 |300110500   | D.                  |X| |X|X|
 |300112917   | Dj.                 |X|X|X|X|
