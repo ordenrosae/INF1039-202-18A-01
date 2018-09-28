@@ -9,7 +9,7 @@
 |300107361   | [E.](https://github.com/toch90)                  |X|X|X|X|
 |300108234   | [H.](https://github.com/halimabzn)                  |X|X|X|X|
 |300104524   | [E.](https://github.com/Echnaideurgeneus)   |X|X|X| |
-|300110500   | D.                  |X| |X|X|
+|300110500   | [D.](https://github.com/didier300110500)                  |X| |X|X|
 |300112917   | [Dj.](https://github.com/djumaster)                 |X|X|X|X|
 |300111024   |                     | | | | |
 |300110529   |                     | | | | |
