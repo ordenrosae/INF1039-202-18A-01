@@ -10,7 +10,7 @@
 |300108234   | [H.](https://github.com/halimabzn)                  |X|X|X|X|
 |300104524   | [E.](https://github.com/Echnaideurgeneus)   |X|X|X| |
 |300110500   | D.                  |X| |X|X|
-|300112917   | Dj.                 |X|X|X|X|
+|300112917   | [Dj.](https://github.com/djumaster)                 |X|X|X|X|
 |300111024   |                     | | | | |
 |300110529   |                     | | | | |
 |300112056   |                     | | | | |
