@@ -1,6 +1,10 @@
 # INF1039-201-18A-02
 Introduction aux algorithmes
 
+## Devoirs
+
+[D.Devoirs](D.Devoirs)
+
 ## Elements de Performance
 
 |No| Date   | Cours               | Intitulé                                |  Structure de donnees       | Structure de controle  |
