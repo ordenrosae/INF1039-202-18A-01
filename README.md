@@ -7,8 +7,8 @@ Introduction aux algorithmes
 |--|--------|:--------------------|:----------------------------------------|:----------------------------|------------------------| 
 | 1| |[0.Git](0.Git)       | Introduction to algorithms              |                             |                        |
 | 2| |                     | Binary search                           | Tableau, Liste              | Fonction               |
-| 3| |                     | Selection sort                          |                             | Condition              |
-|  |        |                     | Notation Big O                          |                             | Recursion              |
+|  | |                     | Selection sort                          |                             | Condition              |
+| 3 |        |                     | Notation Big O                          |                             | Recursion              |
 
 
 # References:
