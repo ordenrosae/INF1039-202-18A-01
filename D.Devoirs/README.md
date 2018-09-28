@@ -13,7 +13,7 @@
 |300112917   | [Dj.](https://github.com/djumaster)                 |X|X|X|X|
 |300111024   |                     | | | | |
 |300110529   |                     | | | | |
-|300112056   |                     | | | | |
+|300112056   | [Dane](https://github.com/danekayi)                    | | | | |
 |300104541   | [R.](https://github.com/Romeomian)                  |X| | | |
 |300112687   |                     | | | | |
 |300111671   | A.                  |X|X|X|X|
