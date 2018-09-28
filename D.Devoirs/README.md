@@ -3,7 +3,7 @@
 |  ID        | Prenom              |1|2|3|4|
 |------------|---------------------|-|-|-|-|
 |300112017   | O.                  |X| |x| | * Pas sur la liste 
-|300113775   | W.                  |X|X|X|X|
+|300113775   | [W.](https://github.com/widby)                  |X|X|X|X|
 |300106918   | [AEK.](https://github.com/AEKchaouche)                |X|X|X|X|
 |300105201   | [F.](https://github.com/BgbgL13)                 |X|X|X|X|
 |300107361   | [E.](https://github.com/toch90)                  |X|X|X|X|
