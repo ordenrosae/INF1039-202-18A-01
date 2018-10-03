@@ -3,7 +3,13 @@ Introduction aux algorithmes
 
 ## Devoirs
 
-[D.Devoirs](D.Devoirs)
+| Date   |                     |     Commentaires                                                                         |
+|:------:|:--------------------|:-----------------------------------------------------------------------------------------|
+|07-09-18| ...                 | Début des cours (Introduction au programme)                                              |
+|14-09-18| ...                 | Film Algorithmes sur Netflix      (tiers de la classe présente)                          |
+|21-09-18| Chapitre 1          | Terminer de lire le chapitre                                                             |
+|28-09-18| Code et github      | Creer un compte github, ecrire le code source page 35                                    |
+|05-10-18| Chapitre 2          | Créer compte IntelliJ, Installer WebStorm, écrire le code source page 35                 |
 
 ## Elements de Performance
 
