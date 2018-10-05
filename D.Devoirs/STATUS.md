@@ -15,7 +15,6 @@
 |300110529   |                     | | | | |
 |300112056   | [Dane](https://github.com/danekayi)                    | |X| | |
 |300104541   | [R.](https://github.com/Romeomian)                  |X| | | |
-|300112687   |                     | | | | |
 |300111671   | [A.](https://github.com/AbbasSadissou)                  |X|X|X|X|
 |300111766   | C.                  |X| |X| |
 |300113127   | [V.](https://github.com/Futureseven)                  |X|X|X|X|
