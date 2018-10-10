@@ -17,7 +17,7 @@ Introduction aux algorithmes
 |--|--------|:--------------------|:---------------------------------|:----------------------------|------------------------| 
 | 1|        |[0.Git](0.Git)       | Introduction to algorithms       |                             |                        |
 | 2|        |                     | Binary search                    | Tableau(Array), Liste(List) | Fonction               |
-|  |        |                     | Selection sort                   |                             | Condition              |
+|  |        |                     | Selection sort                   |                             | Condition, boucles(for,while)              |
 | 3|        |                     | Notation Big O                   | Pile(Stack)                 | Recursion              |
 
 
