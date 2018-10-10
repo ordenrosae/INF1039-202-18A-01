@@ -13,12 +13,12 @@ Introduction aux algorithmes
 
 ## Elements de Performance
 
-|No| Date   | Cours               | Intitulé                                |  Structure de donnees       | Structure de controle  |
-|--|--------|:--------------------|:----------------------------------------|:----------------------------|------------------------| 
-| 1| |[0.Git](0.Git)       | Introduction to algorithms              |                             |                        |
-| 2| |                     | Binary search                           | Tableau, Liste              | Fonction               |
-|  | |                     | Selection sort                          |                             | Condition              |
-| 3 |        |                     | Notation Big O                          |                             | Recursion              |
+|No| Date   | Cours               | Intitulé                         |  Structure de donnees       | Structure de controle  |
+|--|--------|:--------------------|:---------------------------------|:----------------------------|------------------------| 
+| 1|        |[0.Git](0.Git)       | Introduction to algorithms       |                             |                        |
+| 2|        |                     | Binary search                    | Tableau, Liste              | Fonction               |
+|  |        |                     | Selection sort                   |                             | Condition              |
+| 3|        |                     | Notation Big O                   |                             | Recursion              |
 
 
 # References:
