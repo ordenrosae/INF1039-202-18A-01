@@ -16,9 +16,9 @@ Introduction aux algorithmes
 |No| Date   | Cours               | Intitulé                         |  Structure de donnees       | Structure de controle  |
 |--|--------|:--------------------|:---------------------------------|:----------------------------|------------------------| 
 | 1|        |[0.Git](0.Git)       | Introduction to algorithms       |                             |                        |
-| 2|        |                     | Binary search                    | Tableau, Liste              | Fonction               |
+| 2|        |                     | Binary search                    | Tableau(Array), Liste(List) | Fonction               |
 |  |        |                     | Selection sort                   |                             | Condition              |
-| 3|        |                     | Notation Big O                   |                             | Recursion              |
+| 3|        |                     | Notation Big O                   | Pile(Stack)                 | Recursion              |
 
 
 # References:
