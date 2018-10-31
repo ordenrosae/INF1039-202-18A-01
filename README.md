@@ -10,7 +10,7 @@ Introduction aux algorithmes
 |21-09-18| Chapitre 1          | Terminer de lire le chapitre                                                             |
 |28-09-18| Code et github      | Creer un compte github, ecrire le code source page 35                                    |
 |05-10-18| Chapitre 2          | Créer compte IntelliJ, Installer WebStorm, écrire le code source page 35                 |
-|02-11-18| Chapitre 4          | [QuickSort](4.QuickSort), écrire le code source page 65                                  |
+|02-11-18| Chapitre 4          | [QuickSort](2.QuickSort), écrire le code source page 65                                  |
 
 ## Elements de Performance
 
