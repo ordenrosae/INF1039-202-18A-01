@@ -10,15 +10,16 @@ Introduction aux algorithmes
 |21-09-18| Chapitre 1          | Terminer de lire le chapitre                                                             |
 |28-09-18| Code et github      | Creer un compte github, ecrire le code source page 35                                    |
 |05-10-18| Chapitre 2          | Créer compte IntelliJ, Installer WebStorm, écrire le code source page 35                 |
+|02-11-18| Chapitre 2          | Créer compte IntelliJ, Installer WebStorm, écrire le code source page 35                 |
 
 ## Elements de Performance
 
-|No| Date   | Cours               | Intitulé                         |  Structure de donnees       | Structure de controle  |
-|--|--------|:--------------------|:---------------------------------|:----------------------------|------------------------| 
-| 1|        |[0.Git](0.Git)       | Introduction to algorithms       |                             |                        |
-| 2|        |                     | Binary search                    | Tableau(Array), Liste(List) | Fonction               |
-|  |        |                     | Selection sort                   |                             | Condition, boucles(for,while)              |
-| 3|        |                     | Notation Big O                   | Pile(Stack)                 | Recursion (base, recursive case)             |
+|No| Date   | Cours               | Intitulé                         |  Structure de donnees       | Structure de controle            |
+|--|--------|:--------------------|:---------------------------------|:----------------------------|----------------------------------| 
+| 1|        |[0.Git](0.Git)       | Introduction to algorithms       |                             |                                  |
+| 2|        |                     | Binary search                    | Tableau(Array), Liste(List) | Fonction                         | 
+|  |        |                     | Selection sort                   |                             | Condition, boucles(for,while)    |
+| 3|        |                     | Notation Big O                   | Pile(Stack)                 | Recursion (base, recursive case) |
 
 
 # References:
